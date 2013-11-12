@@ -2,74 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f899a074-179a-4f26-8eb7-cfaf3086890f" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../training_demo/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../training_demo/.idea/.generators" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../training_demo/.idea/.name" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../training_demo/.idea/.rakeTasks" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../training_demo/.idea/encodings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../training_demo/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../training_demo/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../training_demo/.idea/vcs.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../training_demo/Gemfile" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../training_demo/Gemfile.lock" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../training_demo/README.rdoc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../training_demo/Rakefile" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../training_demo/app/assets/images/.keep" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../training_demo/app/assets/javascripts/application.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../training_demo/app/assets/stylesheets/application.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../training_demo/app/controllers/application_controller.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../training_demo/app/controllers/concerns/.keep" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../training_demo/app/helpers/application_helper.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../training_demo/app/mailers/.keep" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../training_demo/app/models/.keep" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../training_demo/app/models/concerns/.keep" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../training_demo/app/views/layouts/application.html.erb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../training_demo/bin/bundle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../training_demo/bin/rails" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../training_demo/bin/rake" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../training_demo/config.ru" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../training_demo/config/application.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../training_demo/config/boot.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../training_demo/config/database.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../training_demo/config/environment.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../training_demo/config/environments/development.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../training_demo/config/environments/production.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../training_demo/config/environments/test.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../training_demo/config/initializers/backtrace_silencers.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../training_demo/config/initializers/filter_parameter_logging.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../training_demo/config/initializers/inflections.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../training_demo/config/initializers/mime_types.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../training_demo/config/initializers/secret_token.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../training_demo/config/initializers/session_store.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../training_demo/config/initializers/wrap_parameters.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../training_demo/config/locales/en.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../training_demo/config/routes.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../training_demo/db/seeds.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../training_demo/lib/assets/.keep" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../training_demo/lib/tasks/.keep" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../training_demo/log/.keep" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../training_demo/public/404.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../training_demo/public/422.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../training_demo/public/500.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../training_demo/public/favicon.ico" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../training_demo/public/robots.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../training_demo/test/controllers/.keep" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../training_demo/test/fixtures/.keep" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../training_demo/test/helpers/.keep" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../training_demo/test/integration/.keep" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../training_demo/test/mailers/.keep" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../training_demo/test/models/.keep" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../training_demo/test/test_helper.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../training_demo/vendor/assets/javascripts/.keep" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../training_demo/vendor/assets/stylesheets/.keep" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../sample_app" afterPath="$PROJECT_DIR$/../sample_app" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../rubyexample/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../rubyexample/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../training_demo/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../training_demo/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.rakeTasks" afterPath="$PROJECT_DIR$/.idea/.rakeTasks" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/stylesheets/application.css" afterPath="$PROJECT_DIR$/app/assets/stylesheets/application.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/javascripts/application.js" afterPath="$PROJECT_DIR$/app/assets/javascripts/application.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/book.iml" afterPath="$PROJECT_DIR$/.idea/book.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="book.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/a.dummy" changelist="f899a074-179a-4f26-8eb7-cfaf3086890f" time="1384161584414" ignored="false" />
-    <file path="/Dummy.txt" changelist="f899a074-179a-4f26-8eb7-cfaf3086890f" time="1384161914773" ignored="false" />
+    <file path="/Dummy.txt" changelist="f899a074-179a-4f26-8eb7-cfaf3086890f" time="1384237034205" ignored="false" />
+    <file path="/application.css" changelist="f899a074-179a-4f26-8eb7-cfaf3086890f" time="1384239415661" ignored="false" />
+    <file path="/application.js" changelist="f899a074-179a-4f26-8eb7-cfaf3086890f" time="1384239442783" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,6 +28,11 @@
   <component name="DaemonCodeAnalyzer">
     <disable_hints />
   </component>
+  <component name="DatabaseView">
+    <flatten value="false" />
+    <groupTables value="false" />
+    <sortChildren value="false" />
+  </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
     <favorites_list name="book" />
@@ -92,7 +42,38 @@
       <file leaf-file-name="secret_token.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/config/initializers/secret_token.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="27" column="55" selection-start="864" selection-end="864" vertical-scroll-proportion="0.6585366">
+            <state line="27" column="55" selection-start="864" selection-end="864" vertical-scroll-proportion="0.65112543">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Gemfile" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Gemfile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="19" column="62" selection-start="380" selection-end="380" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application.html.erb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="14" column="0" selection-start="294" selection-end="294" vertical-scroll-proportion="-8.75">
+              <folding>
+                <marker date="1384236749375" expanded="true" signature="21:292" placeholder="..." />
+                <marker date="1384236749375" expanded="true" signature="28:254" placeholder="..." />
+                <marker date="1384236749375" expanded="true" signature="261:284" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="spec_helper.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spec/spec_helper.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -106,7 +87,7 @@
     </FindUsagesManager>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitLogSettings">
     <option name="myDateState">
@@ -116,16 +97,18 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
+        <option value="$PROJECT_DIR$/app/assets/stylesheets/application.css" />
+        <option value="$PROJECT_DIR$/app/assets/javascripts/application.js" />
         <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/config/initializers/secret_token.rb" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="65" />
-    <option name="y" value="24" />
-    <option name="width" value="1301" />
-    <option name="height" value="744" />
+    <option name="x" value="-1" />
+    <option name="y" value="-4" />
+    <option name="width" value="1368" />
+    <option name="height" value="773" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -153,7 +136,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="RailsProjectView" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -170,6 +152,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="book" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="book" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="book" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spec" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -205,17 +201,136 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="book" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="book" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="layouts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="book" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="book" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="book" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="book" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controllers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="book" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="book" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="stylesheets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="book" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="book" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="javascripts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="book" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="book" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="RailsProjectView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="options.lastSelected" value="editor.preferences.appearance" />
     <property name="recentsLimit" value="5" />
-    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
-    <property name="options.searchVisible" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../alljdbc" />
+    <property name="dynamic.classpath" value="false" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RunManager" selected="Rails.Development: book">
     <configuration default="true" type="RakeRunConfigurationType" factoryName="Rake">
@@ -266,6 +381,12 @@
       <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RAILS_SERVER_TYPE" VALUE="Default" />
       <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ENVIRONMENT_TYPE" VALUE="development" />
       <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="LAUNCH_JS" VALUE="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="com.intellij.persistence.run.ConsoleRunConfigurationType" factoryName="Query Language Console">
+      <option name="VM_PARAMETERS" value="" />
+      <option name="USER_CFG_CLASS" />
+      <option name="CONTEXT_PROVIDER" />
       <method />
     </configuration>
     <configuration default="false" name="test" type="RakeRunConfigurationType" factoryName="Rake">
@@ -368,6 +489,8 @@
       <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RAILS_SERVER_TYPE" VALUE="Default" />
       <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ENVIRONMENT_TYPE" VALUE="development" />
       <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="LAUNCH_JS" VALUE="false" />
+      <RunnerSettings RunnerId="RubyCover" />
+      <ConfigurationWrapper RunnerId="RubyCover" />
       <method />
     </configuration>
     <list size="4">
@@ -403,27 +526,48 @@
     </task>
     <servers />
   </component>
+  <component name="TodoView" selected-index="0">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
-    <frame x="65" y="24" width="1301" height="744" extended-state="6" />
+    <frame x="-1" y="-4" width="1368" height="773" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3287037" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3287037" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3287037" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32954547" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24940048" sideWeight="0.6708075" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2530303" sideWeight="0.6712963" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32919255" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3287037" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -487,16 +631,55 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/config/initializers/secret_token.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/application.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="9" selection-start="556" selection-end="556" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/application.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="27" selection-start="648" selection-end="648" vertical-scroll-proportion="0.3376206">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="0" selection-start="294" selection-end="294" vertical-scroll-proportion="-8.75">
+          <folding>
+            <marker date="1384236749375" expanded="true" signature="21:292" placeholder="..." />
+            <marker date="1384236749375" expanded="true" signature="28:254" placeholder="..." />
+            <marker date="1384236749375" expanded="true" signature="261:284" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/spec_helper.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="93" selection-start="484" selection-end="484" vertical-scroll-proportion="0.58536583">
+        <state line="19" column="62" selection-start="380" selection-end="380" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/config/initializers/secret_token.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="55" selection-start="864" selection-end="864" vertical-scroll-proportion="0.6585366">
+        <state line="27" column="55" selection-start="864" selection-end="864" vertical-scroll-proportion="0.65112543">
           <folding />
         </state>
       </provider>
