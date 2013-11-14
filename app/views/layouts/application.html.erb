@@ -1,15 +1,40 @@
 <!DOCTYPE html>
-<html>
+<!--[if IE 7]> <html lang="en" class="ie7"> <![endif]-->
+<!--[if IE 8]> <html lang="en" class="ie8"> <![endif]-->
+<!--[if IE 9]> <html lang="en" class="ie9"> <![endif]-->
+<!--[if !IE]><!--> <html lang="en"> <!--<![endif]-->
 <head>
-  <title>Ruby on Rails Tutorial Sample App | <%= yield(:title) %></title>
-  <%= stylesheet_link_tag    "application", media: "all",
-                             "data-turbolinks-track" => true %>
-  <%= javascript_include_tag "application", "data-turbolinks-track" => true %>
+  <%= render "shared/metadata" %>
   <%= csrf_meta_tags %>
 </head>
 <body>
 
-<%= yield %>
+    <!--=== Style Switcher ===-->
+    <%= render "shared/style" %>
+    <!--=== End Style Switcher ===-->
+
+    <!--=== Top ===-->
+    <%= render "shared/lang" %>
+    <!--=== End Top ===-->
+
+    <!--=== Header ===-->
+    <%= render "shared/header" %>
+    <!--=== End Header ===-->
+
+    <!--=== Content Part ===-->
+    <%= yield %>
+    <!-- End Content Part -->
+
+    <!--=== Footer ===-->
+    <%= render "shared/footer" %>
+    <!--=== End Footer ===-->
+
+    <!--=== Copyright ===-->
+    <%= render "shared/copyright" %>
+    <!--=== End Copyright ===-->
+
+    <!-- JS Global Compulsory -->
+    <%= render "shared/init" %>
 
 </body>
 </html>

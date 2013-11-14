@@ -1,0 +1,11 @@
+<!--=== Breadcrumbs ===-->
+<div class="row-fluid breadcrumbs margin-bottom-40">
+  <div class="container">
+    <h1 class="pull-left"><%= yield(:title_menu) %></h1>
+    <ul class="pull-right breadcrumb">
+      <li><%= link_to "Home", root_url %> <span class="divider">/</span></li>
+      <li class="active"><%= yield(:title_sub_menu) %></li>
+    </ul>
+  </div><!--/container-->
+</div><!--/breadcrumbs-->
+<!--=== End Breadcrumbs ===-->

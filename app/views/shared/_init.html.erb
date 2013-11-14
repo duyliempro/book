@@ -1,0 +1,23 @@
+<!-- JS Global Compulsory -->
+<%= javascript_include_tag "jquery-1.8.2.min", "data-turbolinks-track" => true %>
+<%= javascript_include_tag "modernizr.custom", "data-turbolinks-track" => true %>
+<%= javascript_include_tag "plugins/bootstrap/js/bootstrap.min", "data-turbolinks-track" => true %>
+<!-- JS Implementing Plugins -->
+<%= javascript_include_tag "plugins/flexslider/jquery.flexslider-min", "data-turbolinks-track" => true %>
+<%= javascript_include_tag "plugins/parallax-slider/js/modernizr", "data-turbolinks-track" => true %>
+<%= javascript_include_tag "plugins/parallax-slider/js/jquery.cslider", "data-turbolinks-track" => true %>
+<%= javascript_include_tag "plugins/back-to-top", "data-turbolinks-track" => true %>
+<!-- JS Page Level -->
+<%= javascript_include_tag "app", "data-turbolinks-track" => true %>
+<%= javascript_include_tag "pages/index", "data-turbolinks-track" => true %>
+
+<script type="text/javascript">
+    jQuery(document).ready(function() {
+        App.init();
+        App.initSliders();
+        Index.initParallaxSlider();
+    });
+</script>
+<!--[if lt IE 9]>
+<%= javascript_include_tag "respond", "data-turbolinks-track" => true %>
+<![endif]-->

@@ -1,0 +1,23 @@
+<title>Ruby on Rails | <%= yield(:title) %></title>
+
+<!-- Meta -->
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="">
+<meta name="author" content="">
+<!-- CSS Global Compulsory-->
+<%= stylesheet_link_tag    "style", "data-turbolinks-track" => true %>
+<%= stylesheet_link_tag    "plugins/bootstrap/css/bootstrap.min", "data-turbolinks-track" => true %>
+<%= stylesheet_link_tag    "headers/header1", "data-turbolinks-track" => true %>
+<%= stylesheet_link_tag    "plugins/bootstrap/css/bootstrap-responsive.min", "data-turbolinks-track" => true %>
+<%= stylesheet_link_tag    "style_responsive", "data-turbolinks-track" => true %>
+<link rel="shortcut icon" href="favicon.ico">
+
+<!-- CSS Implementing Plugins -->
+<%= stylesheet_link_tag    "plugins/font-awesome/css/font-awesome", "data-turbolinks-track" => true %>
+<%= stylesheet_link_tag    "plugins/flexslider/flexslider", "data-turbolinks-track" => true %>
+<%= stylesheet_link_tag    "plugins/parallax-slider/css/parallax-slider", "data-turbolinks-track" => true %>
+
+<!-- CSS Theme -->
+<%= stylesheet_link_tag    "themes/default", id: "style_color", "data-turbolinks-track" => true %>
+<%= stylesheet_link_tag    "themes/headers/default", id: "style_color-header-1", "data-turbolinks-track" => true %>
